@@ -2,3 +2,10 @@ h1{
     background: lightblue;
     text-align: center;
 }
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: lightcoral;
+    height: 100px;
+}
